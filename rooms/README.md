@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<!-- https://guides.rubyonrails.org/getting_started.html -->
+
+<!-- http://ruby-doc.com/docs/ProgrammingRuby/ -->
